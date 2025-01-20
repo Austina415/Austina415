@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 2 built my own product
+- 🔭 I’m currently working on builting my own product
 - 🌱 I’m currently learning c++ and how 2 use github lol...
 - 👯 I’m looking to collaborate on learning (whatever about coding..i need someone 2 help me plz)
 - 🤔 I’m looking for help with entring the coding world
